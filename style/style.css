@@ -24,6 +24,8 @@ img {
   -ms-border-radius: 20px;
   -o-border-radius: 20px;
   overflow: hidden;
+  transition: all 0.3s ease;
+
 }
 
 .container > div:hover{
